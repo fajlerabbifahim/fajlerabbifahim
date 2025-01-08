@@ -58,6 +58,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/fajlerabbifahim/fajlerabbifahim/output/snake.svg" alt="Snake animation" />
 
-###
