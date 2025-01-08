@@ -44,6 +44,10 @@
 
 ###
 
+<h2 align="left">Find Me</h2>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/fajlerabbifahim/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -54,8 +58,9 @@
   <a href="https://www.facebook.com/yourfahimm" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
+  <a href="fajlerabbifahim@outlook.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  </a>
 </div>
 
 ###
-
-
