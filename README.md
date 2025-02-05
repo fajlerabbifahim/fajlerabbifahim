@@ -21,7 +21,7 @@
 
 ###
 
-<h2 align="left">🔧 Technologies & Tools</h2>
+<h2 align="left">Technologies & Tools</h2>
 
 
 ###
