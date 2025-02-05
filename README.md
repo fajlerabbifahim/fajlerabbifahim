@@ -1,6 +1,6 @@
-<div align="center">
+<p align="center">
   <img src="https://i.ibb.co/7x2MWx2V/Fahim-git-hub3.jpg"  />
-</div>
+</p>
 
 
 
