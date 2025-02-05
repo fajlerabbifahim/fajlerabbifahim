@@ -3,6 +3,7 @@
 </div>
 
 ###
+###
 
 <h1 align="center">Hello World</h1>
 
@@ -16,7 +17,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 Currently learning MongoDD<br>🎯 Aspiring to become a Full Stack Web Developer<br>🎲 Fun Fact: Once spent hours debugging a missing semicolon—and learned to love linters after that!</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 Currently learning Next js<br>🎯 Aspiring to become a Full Stack Web Developer<br>🎲 Fun Fact: Once spent hours debugging a missing semicolon—and learned to love linters after that!</p>
 
 ###
 
