@@ -1,3 +1,5 @@
+
+
 <div align="center">
   <img src="https://i.imgur.com/aljRsao.jpg" width="1000"/>
 </div>
@@ -7,17 +9,38 @@
 ###
 ###
 
-<h1 align="center">Hello World..</h1>
+<h1 align="center">Hello There I'm Fajle Rabbi Fahim</h1>
 
 ###
 
-<p align="left">My name is Fajle Rabbi Fahim, and I’m a passionate Web Developer from Bangladesh. I’ve always been drawn to problem-solving, which led me to the world of programming. The excitement of creating things and improving systems through code has kept me hooked since I started. My goal is to become a Full Stack Developer, and I’m currently honing my skills to reach that.<br><br>Hobbies:<br>When I’m not coding, I love capturing moments through photography and exploring new places by traveling. These passions keep me creative and inspired, and they help me approach programming with a fresh perspective.</p>
+<div align="center">
 
-###
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=fajlerabbifahim&theme=radical&show_icons=true&hide_border=false&count_private=true" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=fajlerabbifahim&theme=radical&hide_border=false" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajlerabbifahim&theme=radical&show_icons=true&hide_border=false&layout=compact" width="60%" />
+
+</div>
 
 <h2 align="left">About me</h2>
 
 ###
+
+<p align="left">I’m a passionate Web Developer from Bangladesh. I’ve always been drawn to problem-solving, which led me to the world of programming. The excitement of creating things and improving systems through code has kept me hooked since I started. My goal is to become a Full Stack Developer, and I’m currently honing my skills to reach that.<br><br>Hobbies:<br>When I’m not coding, I love capturing moments through photography and exploring new places by traveling. These passions keep me creative and inspired, and they help me approach programming with a fresh perspective.</p>
+
+###
+
+
 
 <p align="left">✨ Creating bugs since 2024<br>📚 Currently learning Next js<br>🎯 Aspiring to become a Full Stack Web Developer<br>🎲 Fun Fact: Once spent hours debugging a missing semicolon—and learned to love linters after that!</p>
 
